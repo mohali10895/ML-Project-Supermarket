@@ -1,2 +1,2 @@
 # ML-Project-Supermarket
-The Machine Learnig project (Supermarket) uses all regression models.
+The Machine Learnig project (Superstore) uses all regression models.
